@@ -38,6 +38,8 @@ public class DodgeBall extends GraphicsProgram implements ActionListener {
 		movement = new Timer(MS, this);
 		movement.start();
 		addMouseListeners();
+		
+		
 	}
 	
 	public void actionPerformed(ActionEvent e) {
