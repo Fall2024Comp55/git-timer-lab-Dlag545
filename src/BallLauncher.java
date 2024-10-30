@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import javax.swing.*;
 
 public class BallLauncher extends GraphicsProgram implements ActionListener{
-	//Placeholder
+	//Placeholder comment
 	public static final int PROGRAM_HEIGHT = 600;
 	public static final int PROGRAM_WIDTH = 800;
 	public static final int SIZE = 25;
